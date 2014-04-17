@@ -4,7 +4,6 @@ Revision history for Selenium-Remote-Driver
         [FIREFOX PROFILE]
         - Added Selenium::Remote::Driver::Firefox::Profile for managing Firefox profiles.
 
-
 0.1801 4-9-2014
         [DOCUMENTATION]
         - Using Dist::Zilla & Pod::Weaver to keep the POD as DRY as possible
